@@ -1,4 +1,5 @@
 # 2-Tier-Terraform-WP
+
 Configure the Provider, VPC and Subnets
 Remember to create the Key pair wordpressKey.
 
